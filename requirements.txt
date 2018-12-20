@@ -1,2 +1,0 @@
-Python Packages Used: os, sys, termios, fcntl, tty, atexit, select, time, math
-For sounds: aplay on linux
